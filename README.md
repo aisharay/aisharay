@@ -1,4 +1,4 @@
-(https://aisharay.github.io/)
+
 <h1 align="center">Hi 👋, I'm Aisha ray</h1>
 <h3 align="center">IITG'23</h3>
 
