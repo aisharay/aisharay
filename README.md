@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1639008000&v=beta&t=BWvsqjIVnIKpjYocWZJQz6CKeyahHC6WDPqE6_Lpo20)](https://aisharay.github.io/)
+(https://aisharay.github.io/)
 <h1 align="center">Hi 👋, I'm Aisha ray</h1>
 <h3 align="center">IITG'23</h3>
 
